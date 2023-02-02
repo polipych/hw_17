@@ -2,4 +2,3 @@
 *.sqlite3
 **/__pycache__/
 /screenshots/
-**/migrations/0001*
