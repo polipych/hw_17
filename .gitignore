@@ -1,4 +1,8 @@
 /venv/
 *.sqlite3
-**/__pycache__/
+**/__pycache__/*
 /screenshots/
+**/migrations/*
+/.idea/
+*.pyc
+/.vscode/

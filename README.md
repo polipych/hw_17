@@ -22,6 +22,7 @@
 ## Как установить
 ```sh
 $ git clone https://github.com/polipych/hw_17.git
+$ cd .\hw_17\
 $ pip install -r requirements.txt
 ```
 
