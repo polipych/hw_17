@@ -2,7 +2,7 @@
 *.sqlite3
 **/__pycache__/*
 /screenshots/
-**/migrations/*
+**/migrations/000*
 /.idea/
 *.pyc
 /.vscode/
