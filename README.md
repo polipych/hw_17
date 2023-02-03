@@ -29,6 +29,8 @@ $ pip install -r requirements.txt
 ## Как запустить
 ```sh
 $ cd .\todolist\
+$ py .\manage.py makemigrations
+$ py .\manage.py migrate
 $ py .\manage.py runserver
 ```
 Открыть в веб-браузере страницу с адресом: http://127.0.0.1:8000/
